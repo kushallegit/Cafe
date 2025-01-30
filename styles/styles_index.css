@@ -81,7 +81,7 @@ header nav a:hover {
     align-items: center; /* Center the content horizontally */
     text-align: center;
     padding: 200px 20px; /* Adjust padding to provide space around the content */
-    background: url('/images/ambience2.png') no-repeat center center; /* Add your image */
+    background: url('images/ambience2.png') no-repeat center center; /* Add your image */
     background-size: cover; /* Ensure the image covers the section */
     color: #fff9f9;
     transition: background-color 0.3s ease-in-out;
